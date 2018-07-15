@@ -1,2 +1,2 @@
-<strong>test github</strong>
+test github
 Hello !
